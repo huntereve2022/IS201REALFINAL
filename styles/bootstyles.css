@@ -1,0 +1,71 @@
+
+
+.tableaubg {
+    background-color: azure;
+}
+
+.common {
+    background-color: black;
+    position: absolute;
+}
+
+.uncommon {
+    background-color: white;
+    position: absolute;
+}
+
+.header{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    top: 10px;
+}
+
+.navigation {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    color: white;
+    font-weight: bold;
+}
+
+.subheader {
+    float: right;
+ }
+
+ .mainbody {
+    top: 100px;
+    bottom: 100px;
+}
+
+.footer {
+    bottom: 5px;
+    height: 100px;
+    left: 5px;
+    right: 5px;
+    position: relative;
+    background-color: black;
+}
+
+.footertext {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+}
+
+.linkstyle {
+    color: whitesmoke;
+    float:right
+}
+
+.linkstyle:visited {
+    color: darkgray;
+}
+
+.captions {
+    font-size: larger;
+    text-align: center;
+    font-style: italic;
+}
